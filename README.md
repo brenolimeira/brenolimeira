@@ -5,7 +5,7 @@
 
 I am a student in Information Systems, looking for opportunities and development of projects related to Front-end with React and React Native framework.
 - 💻 I’m currently working on the construction of my undergraduate thesis (Using React and React Native for the construction of the Front-end).
-- 🌱 I’m currently learning about Next.js and Redux.
+- 🌱 I’m currently learning about Next.js.
 - 🤝 I’m looking to collaborate on front-end projects with React and React Native.
 
 ## Languages and Tools
