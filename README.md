@@ -6,7 +6,7 @@
 Bacharel em Sistemas de Informação | Universidade Federal Rural de Pernambuco
 
 I am looking for opportunities and development of projects related to Front-end with React and React Native framework.
-- 💻 I'm currently deepening my knowledge in React through the Rocketseat Ignite course.
+- 💻 I'm currently develop my knowledge in React through the Rocketseat Ignite course.
 - 🌱 I’m currently learning about Next.js.
 - 🤝 I’m looking to collaborate on front-end projects with React and React Native.
 
