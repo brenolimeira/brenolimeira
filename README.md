@@ -1,9 +1,11 @@
 # Hi 👋 i'm <a href="https://github.com/brenolimeira">brenolimeira</a> but you can call me Breno
 </br>
 
+## Bacharel em Sistemas de Informação | Universidade Federal Rural de Pernambuco
+
 ## About Me
 
-I am graduated in Information Systems, looking for opportunities and development of projects related to Front-end with React and React Native framework.
+I am looking for opportunities and development of projects related to Front-end with React and React Native framework.
 - 💻 I’m currently working on the construction of my undergraduate thesis (Using React and React Native for the construction of the Front-end).
 - 🌱 I’m currently learning about Next.js.
 - 🤝 I’m looking to collaborate on front-end projects with React and React Native.
