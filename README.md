@@ -1,14 +1,14 @@
-# Hi 👋 i'm <a href="https://github.com/brenolimeira">brenolimeira</a> but you can call me Breno
+# Olá 👋 Meu nome é <a href="https://github.com/brenolimeira">Breno</a>
 </br>
 
 ## About Me
 
 Bacharel em Sistemas de Informação | Universidade Federal Rural de Pernambuco
 
-I am looking for opportunities and development of projects related to Front-end with React and React Native framework.
-- 💻 I'm currently develop my knowledge in React through the Rocketseat Ignite course.
-- 🌱 I’m currently learning about Next.js.
-- 🤝 I’m looking to collaborate on front-end projects with React and React Native.
+Busco oportunidades e desenvolvimento de projetos relacionados a Front-end com React.
+- 💻 Atualmente estou desenvolvendo meus conhecimentos em React através do curso Ignite da Rocketseat.
+- 🌱 Estou aprendendo sobre o Next.js.
+- 🤝 Estou procurando colaborar em projetos de front-end com React.
 
 ## Languages and Tools
 • Javascript • Typescript • React • React Native • HTML • CSS
