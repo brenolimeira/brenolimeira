@@ -6,12 +6,12 @@
 Bacharel em Sistemas de Informação | Universidade Federal Rural de Pernambuco
 
 Busco oportunidades e desenvolvimento de projetos relacionados a Front-end com React.
-- 💻 Atualmente estou desenvolvendo meus conhecimentos em React através do curso Ignite da Rocketseat.
-- 🌱 Estou aprendendo sobre o Next.js.
-- 🤝 Estou procurando colaborar em projetos de front-end com React.
+- 💻 Atualmente estou desenvolvendo meus conhecimentos em Python através do curso da Alura.
+- 🌱 Estou aprendendo sobre Django.
+- 🤝 Estou procurando colaborar em projetos de back-end com Python e Django.
 
 ## Languages and Tools
-• Javascript • Typescript • React • React Native • HTML • CSS
+• Javascript • Typescript • Python • Django • React • React Native • HTML • CSS
 ## My Github Stats
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=brenolimeira&show_icons=true&theme=tokyonight)
