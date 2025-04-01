@@ -11,7 +11,7 @@ Busco oportunidades e desenvolvimento de projetos relacionados a Front-end com R
 - 🤝 Estou procurando colaborar em projetos de back-end com Python e Django.
 
 ## Languages and Tools
-• Javascript • Typescript • Python • Django • React • React Native • HTML • CSS
+• Python • Django • Javascript • Typescript • React • React Native • HTML • CSS
 ## My Github Stats
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=brenolimeira&show_icons=true&theme=tokyonight)
