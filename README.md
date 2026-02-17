@@ -8,7 +8,7 @@ Bacharel em Sistemas de Informação | Universidade Federal Rural de Pernambuco
 Busco oportunidades e desenvolvimento de projetos relacionados a Front-end com React.
 - 💻 Atualmente estou desenvolvendo meus conhecimentos em Python através do curso da Alura.
 - 🌱 Estou aprendendo sobre Django.
-- 🤝 Estou procurando colaborar em projetos de back-end com Python e Django.
+- 🤝 Estou procurando colaborar em projetos de front-end e back-end com React, Python e Django.
 
 ## Languages and Tools
 • Python • Django • Javascript • Typescript • React • React Native • HTML • CSS
