@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Bacharel em Sistemas de Informação | Universidade Federal Rural de Pernambuco<br><br>Busco oportunidades e desenvolvimento de projetos relacionados a Front-end com React.<br><br>💻 Atualmente estou desenvolvendo meus conhecimentos em Python através do curso da Alura.<br>🌱 Estou aprendendo sobre Django.<br>🤝 Estou procurando colaborar em projetos de front-end e back-end com React, Python e Django.
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/breno-silverio07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brenolimeira@gmail.com) 
 
 # 💻 Tech Stack:
