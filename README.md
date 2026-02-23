@@ -15,7 +15,7 @@ Busco oportunidades e desenvolvimento de projetos relacionados a Front-end com R
 ## My Github Stats
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=brenolimeira&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenolimeira&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenolimeira)](https://github.com/brenolimeira)
 
 ## Find me on
 
